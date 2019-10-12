@@ -10,3 +10,18 @@ plugins:
   - jekyll-sitemap
 
 css_dir: "assets/css"
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - package.json
+  - yarn.lock
+  - postcss.config.js
+  - purgecss.config.js
+  - tailwind.config.js
+  - LICENSE
+  - README.md
