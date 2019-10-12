@@ -7,5 +7,6 @@ google_analytics: UA-1607568-18
 plugins:
   - jekyll-postcss
   - jekyll-purgecss
+  - jekyll-sitemap
 
 css_dir: "assets/css"
