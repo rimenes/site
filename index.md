@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Rimenes Ribeiro"
+title: "Home"
 ---
 
 # Rimenes Ribeiro
