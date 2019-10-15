@@ -1,0 +1,15 @@
+section h1 {
+  @apply mb-6 text-xl font-bold;
+}
+
+section ul {
+  @apply mb-6 ml-8;
+}
+
+section ul li {
+  @apply list-disc;
+}
+
+section p {
+  @apply mb-6;
+}

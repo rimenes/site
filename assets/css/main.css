@@ -4,4 +4,7 @@
 
 @import "tailwindcss/base";
 @import "tailwindcss/components";
+
+@import "assets/css/layout";
+
 @import "tailwindcss/utilities";
