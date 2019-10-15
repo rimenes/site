@@ -6,4 +6,5 @@ group :jekyll_plugins do
   gem 'jekyll-postcss'
   gem 'jekyll-purgecss'
   gem 'jekyll-sitemap'
+  gem 'jekyll-last-modified-at'
 end

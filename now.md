@@ -12,3 +12,5 @@ permalink: /now/
 - Reading books to be a better person
 
 I'm trying to say no to everything else.
+
+Last updated {{ page.last_modified_at | date: '%B %Y' }}
