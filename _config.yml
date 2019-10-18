@@ -7,9 +7,18 @@ google_analytics: UA-1607568-18
 plugins:
   - jekyll-postcss
   - jekyll-purgecss
+  - jekyll-seo-tag
   - jekyll-sitemap
 
 css_dir: "assets/css"
+
+social:
+  name: Rimenes Ribeiro
+  links:
+    - https://twitter.com/rimenes
+    - https://linkedin.com/in/rimenes
+    - https://github.com/rimenes
+    - https://keybase.io/rimenes
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
