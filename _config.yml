@@ -9,6 +9,7 @@ plugins:
   - jekyll-purgecss
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-last-modified-at
 
 css_dir: "assets/css"
 
